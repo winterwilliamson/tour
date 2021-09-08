@@ -29,6 +29,9 @@ text-decoration: none;
 const Logo = styled(Link)`
   ${NavLink} 
   color: #fff;
+  font-weight: 800;
+  font-size: 25px;
+
  `
 
 
